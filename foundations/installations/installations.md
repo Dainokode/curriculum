@@ -117,7 +117,7 @@ It means you have to [enable virtualization in your computer’s BIOS/UEFI setti
 
 Due to how the unattended installation is configured by VirtualBox, your account doesn't have proper `sudo` permissions. Think of them as the equivalent to `Run as administrator` on your Windows machine - you can imagine why it would be important to have them in order.
 
-#### Step 3.1: Navigate to users and group
+#### Step 3.1: Navigate to users and groups
 
 First, if you haven't already, login with the username and password created earlier, then click on the <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/96d534641514fe4d62aabe2919fac3c52cb286e7/foundations/installations/installations/imgs/00_whisker_icon.png" alt="The blue-white rodent Whisker Menu Icon" style="display: inline; margin: auto;"> in top left of your window, afterwards type in `Users` and you should see `Users and Groups` show up. Click on it.
 
